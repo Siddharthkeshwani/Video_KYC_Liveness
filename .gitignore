@@ -1,0 +1,9 @@
+.venv/
+.env
+dataset/raw/
+dataset/processed/
+features/
+*.npy
+optuna.db
+__pycache__/
+.ipynb_checkpoints/
